@@ -82,14 +82,14 @@ These repositories showcase my coding skills, contributions to open-source, and 
 </div>
 
 <p align="center">
-  <a href="https://github.com/Danapaule01/awesome" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Danapaule01&repo=awesome&theme=blue-green" width="380"/>
+  <a href="https://github.com/Danapaule01/cloud-sql-python-connector" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Danapaule01&repo=&theme=blue-green" width="380"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Danapaule01/claude" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Danapaule01&repo=claude&theme=blue-green" width="380"/>
+  <a href="https://github.com/Danapaule01/DeepCode" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Danapaule01&repo=&theme=blue-green" width="380"/>
   </a>
 </p>
 
