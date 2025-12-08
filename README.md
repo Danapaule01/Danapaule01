@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Danapaule01&label=Profile%20views&color=0e75b6&style=flat" alt="Danapaule01" />
+  <img src="https://komarev.com/ghpvc/?username=Danapaule01&label=Profile%20views&color=0e75b6&style=flat" alt="Daemon2390" />
 </p>
 <div align="center">
  
@@ -69,28 +69,6 @@ Here’s an overview of my GitHub activity that I take pride in:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Danapaule01&show_icons=true&theme=radical" width="400"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Danapaule01&theme=radical&hide_border=true" width="400"/>
-</p>
-
----
-
-<div align="center">
-
-### <span style="color: #FF6347;">📌 **Top Repositories**</span>
-
-These repositories showcase my coding skills, contributions to open-source, and passion for solving complex problems.
-
-</div>
-
-<p align="center">
-  <a href="https://github.com/Danapaule01/cloud-sql-python-connector" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Danapaule01&repo=cloud-sql-python-connector&theme=blue-green" width="380"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Danapaule01/DeepCode" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Danapaule01&repo=DeepCode&theme=blue-green" width="380"/>
-  </a>
 </p>
 
 ---
